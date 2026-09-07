@@ -242,3 +242,6 @@ This repository serves as the official landing page for Aliens: Dark Descent. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Aliens: Dark Descent today!**
+
+---
+**Last updated:** 2026-09-07 07:58:33 UTC
