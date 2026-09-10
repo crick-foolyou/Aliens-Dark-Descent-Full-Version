@@ -244,4 +244,4 @@ This repository serves as the official landing page for Aliens: Dark Descent. Th
 **Get the most recent version of Aliens: Dark Descent today!**
 
 ---
-**Last updated:** 2026-09-10 21:26:03 UTC
+**Last updated:** 2026-09-10 23:45:12 UTC
